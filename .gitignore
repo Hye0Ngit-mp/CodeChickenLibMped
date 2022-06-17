@@ -1,0 +1,12 @@
+/build/.gradle
+/build/build/
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+/build/.settings/
+/build/bin/
+/build/run/
+/build/.classpath
+/build/.project
